@@ -5,7 +5,7 @@
 ##
 - 🏡  Salvador - Brazil
 - 📚  I'm studying web development at [Trybe](https://www.betrybe.com/)
-- 🌱  I'm learning **HTML** and **CSS**
+- 🌱  I'm learning **Redux**
 - 📫  How to reach me [hildelio@gmail.com](mailto:hildelio@gmail.com)
 
 

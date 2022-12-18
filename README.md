@@ -1,62 +1,53 @@
-🚧🔨👷⚠️ UNDER CONSTRUCTION 🚧🔨👷⚠️ 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hildelio&label=Profile%20views&color=0e75b6&style=flat" alt="hildelio" /> </p>
 <h1 align="center">Hello world!</h1>
-![aboutMe](https://user-images.githubusercontent.com/106602737/208301394-a808b00b-efca-4b79-b427-a4dd7420526c.png)
+﻿
 
-
-const aboutMe = {  
-    name: 'Hildélio Júnior',  
-  age: 33,  
-  contact: {  
-    linkedin: 'https//www.linkedin.com/in/hildelio-junior/',  
-    email: 'hildelio@gmail.com',  
-    phone: '+55🇧🇷 (71) 98791-5527',  
-  },  
-  studentAt: {  
-    trybe: {  
-      webDevelopmentFullStack: {  
-        workLoad: '1500 hours',  
-        duration: 'one year',  
-        learned: [  
-          'HTML', 'CSS', 'JavaScript', 'React', 'Redux', 'RTL', 'Metodologias Ágeis', 'Soft Skills',  
-        ],  
-        willLearn: [  
-          'Docker', 'Node.js', 'MySQL', 'Jest',   
-        ],  
+    export const aboutMe = {  
+      name: 'Hildélio Júnior',  
+      from: 'Salvador - BA'
+      age: 33,  
+      contact: {  
+        linkedin: 'https//www.linkedin.com/in/hildelio-junior/',  
+        email: 'hildelio@gmail.com',  
+        phone: '+55🇧🇷 (71) 98791-5527',  
       },  
-    },  
-    UniversidadeEstacioDeSa: {  
-      analysisAndSystemDevelopment: {  
-        workLoad: '3000 hours',  
-        duration: '2.5 years',  
-        learned: [  
-          'Arquitetura de Computadores', 'Pensamento Computacional', 'Introdução à Segurança da Informação',  
-          'Desenvolvimento Web em HTML5, CSS, JavaScript e PHP', 'Paradigmas de Linguagens de Programação em Python'  
-        ],  
-        willLearn: [   
-          'Computação Em Nuvem', 'Comunicação Entre Aplicações', 'Desenvolvimento De Front-End', 'Engenharia De Usabilidade',  
-          'Estrutura De Dados Em Python', 'Modelagem De Sistemas Em Uml', 'Banco De Dados', 'Desenvolvimento Rápido De Aplicações Em Python',  
-          'Engenharia De Software', 'Introdução À Programação Estruturada Em C', 'Protocolos De Redes De Computadores',  
-          'Sistemas Operacionais', 'Algoritmos E Complexidade', 'Aplic. De Cloud, Iot E Indústria 4.0 Em Python', 'Banco De Dados Nosql',  
-          'Desenvolvimento De Software Seguro', 'Estrutura De Dados Em C', 'Gerenciamento De Projetos', 'Programação Orientada A Objetos Em Java',  
-          'Tópicos De Big Data Em Python', 'Inteligência Artificial Para Devs', 'Métodos Ágeis Com Scrum', 'Padrões De Projetos De Software Com Java',  
-          'Programação De Software Básico Em C', 'Programação Em Python Para Análise De Dados', 'Programação Para Dispositivos Móveis Em Android',  
-          'Sistemas De Informação E Sociedade',  
-        ],  
+      studentAt: {  
+        trybe: {  
+          webDevelopmentFullStack: {  
+            workLoad: '1500 hours',  
+            duration: 'one year',  
+            learned: [  
+              'HTML', 'CSS', 'JavaScript', 'React', 'Redux', 'RTL', 'Metodologias Ágeis', 'Soft Skills',  
+            ],  
+            willLearn: [  
+              'Docker', 'Node.js', 'MySQL', 'Jest',   
+            ],  
+          },  
+        },  
+        UniversidadeEstacioDeSa: {  
+          analysisAndSystemDevelopment: {  
+            workLoad: '3000 hours',  
+            duration: '2.5 years',  
+            learned: [  
+              'Arquitetura de Computadores', 'Pensamento Computacional', 'Introdução à Segurança da Informação',  
+              'Desenvolvimento Web em HTML5, CSS, JavaScript e PHP', 'Paradigmas de Linguagens de Programação em Python'  
+            ],  
+            willLearn: [   
+              'Computação Em Nuvem', 'Comunicação Entre Aplicações', 'Desenvolvimento De Front-End', 'Engenharia De Usabilidade',  
+              'Estrutura De Dados Em Python', 'Modelagem De Sistemas Em Uml', 'Banco De Dados', 'Desenvolvimento Rápido De Aplicações Em Python',  
+              'Engenharia De Software', 'Introdução À Programação Estruturada Em C', 'Protocolos De Redes De Computadores',  
+              'Sistemas Operacionais', 'Algoritmos E Complexidade', 'Aplic. De Cloud, Iot E Indústria 4.0 Em Python', 'Banco De Dados Nosql',  
+              'Desenvolvimento De Software Seguro', 'Estrutura De Dados Em C', 'Gerenciamento De Projetos', 'Programação Orientada A Objetos Em Java',  
+              'Tópicos De Big Data Em Python', 'Inteligência Artificial Para Devs', 'Métodos Ágeis Com Scrum', 'Padrões De Projetos De Software Com Java',  
+              'Programação De Software Básico Em C', 'Programação Em Python Para Análise De Dados', 'Programação Para Dispositivos Móveis Em Android',  
+              'Sistemas De Informação E Sociedade',  
+            ],  
+          },  
+        },  
       },  
-    },  
-  },  
-}  
-
-##
-- 🏡  Salvador - Brazil
-- 📚  I'm studying web development at [Trybe](https://www.betrybe.com/)
-- 🌱  I'm learning **Redux**
-- 📫  How to reach me [hildelio@gmail.com](mailto:hildelio@gmail.com)
+    } 
 
 
-## Things I'm learning to code with
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -68,8 +59,8 @@ const aboutMe = {
 ![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-##
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)                
+
 
 | <a href="(https://github.com/hildelio"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=hildelio&count_private=true&theme=github_dark&show_icons=true" /></a>| <a href="https://github.com/hildelio/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hildelio&layout=compact&theme=github_dark&show_icons=true" /></a>|
 | ------------- | ------------- |

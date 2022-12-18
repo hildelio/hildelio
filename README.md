@@ -1,6 +1,53 @@
+🚧🔨👷⚠️ UNDER CONSTRUCTION 🚧🔨👷⚠️ 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hildelio&label=Profile%20views&color=0e75b6&style=flat" alt="hildelio" /> </p>
-<h1 align="center">Hey 👋, I'm Hildélio Júnior </h1>
-<h3 align="center">A Web Developer from Brazil</h3>
+<h1 align="center">Hello world!</h1>
+![aboutMe](https://user-images.githubusercontent.com/106602737/208301394-a808b00b-efca-4b79-b427-a4dd7420526c.png)
+
+
+const aboutMe = {  
+    name: 'Hildélio Júnior',  
+  age: 33,  
+  contact: {  
+    linkedin: 'https//www.linkedin.com/in/hildelio-junior/',  
+    email: 'hildelio@gmail.com',  
+    phone: '+55🇧🇷 (71) 98791-5527',  
+  },  
+  studentAt: {  
+    trybe: {  
+      webDevelopmentFullStack: {  
+        workLoad: '1500 hours',  
+        duration: 'one year',  
+        learned: [  
+          'HTML', 'CSS', 'JavaScript', 'React', 'Redux', 'RTL', 'Metodologias Ágeis', 'Soft Skills',  
+        ],  
+        willLearn: [  
+          'Docker', 'Node.js', 'MySQL', 'Jest',   
+        ],  
+      },  
+    },  
+    UniversidadeEstacioDeSa: {  
+      analysisAndSystemDevelopment: {  
+        workLoad: '3000 hours',  
+        duration: '2.5 years',  
+        learned: [  
+          'Arquitetura de Computadores', 'Pensamento Computacional', 'Introdução à Segurança da Informação',  
+          'Desenvolvimento Web em HTML5, CSS, JavaScript e PHP', 'Paradigmas de Linguagens de Programação em Python'  
+        ],  
+        willLearn: [   
+          'Computação Em Nuvem', 'Comunicação Entre Aplicações', 'Desenvolvimento De Front-End', 'Engenharia De Usabilidade',  
+          'Estrutura De Dados Em Python', 'Modelagem De Sistemas Em Uml', 'Banco De Dados', 'Desenvolvimento Rápido De Aplicações Em Python',  
+          'Engenharia De Software', 'Introdução À Programação Estruturada Em C', 'Protocolos De Redes De Computadores',  
+          'Sistemas Operacionais', 'Algoritmos E Complexidade', 'Aplic. De Cloud, Iot E Indústria 4.0 Em Python', 'Banco De Dados Nosql',  
+          'Desenvolvimento De Software Seguro', 'Estrutura De Dados Em C', 'Gerenciamento De Projetos', 'Programação Orientada A Objetos Em Java',  
+          'Tópicos De Big Data Em Python', 'Inteligência Artificial Para Devs', 'Métodos Ágeis Com Scrum', 'Padrões De Projetos De Software Com Java',  
+          'Programação De Software Básico Em C', 'Programação Em Python Para Análise De Dados', 'Programação Para Dispositivos Móveis Em Android',  
+          'Sistemas De Informação E Sociedade',  
+        ],  
+      },  
+    },  
+  },  
+}  
 
 ##
 - 🏡  Salvador - Brazil

@@ -2,7 +2,7 @@
 <h1 align="center">Hello world!</h1>
 ﻿
 
-    export default const aboutMe = {  
+    export const aboutMe = {  
       name: 'Hildélio Júnior',  
       from: '📍 Salvador - BA'
       age: 33,  
@@ -43,10 +43,10 @@
               'Inteligência Artificial Para Devs', 'Métodos Ágeis Com Scrum', 'Projetos De Software Com Java',
               'Programação De Software Básico Em C', 'Programação Em Python Para Análise De Dados',
               'Programação Para Dispositivos Móveis Em Android', 'Sistemas De Informação E Sociedade',  
-            ],  
-          },  
-        },  
-      },  
+            ]  
+          }  
+        }  
+      }  
     } 
 
 

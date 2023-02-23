@@ -17,10 +17,10 @@
             workLoad: '1500 hours',  
             duration: 'one year',  
             learned: [  
-              'HTML', 'CSS', 'JavaScript', 'React', 'Redux', 'RTL', 'Metodologias Ágeis', 'Soft Skills',  
+              'HTML', 'CSS', 'JavaScript', 'React', 'Redux', 'RTL', 'Metodologias Ágeis', 'Soft Skills', 'Docker' 
             ],  
             willLearn: [  
-              'Docker', 'Node.js', 'MySQL', 'Jest',   
+              'Node.js', 'SQL', 'Jest', 'TypeScript', 'POO e SOLID', 'Python'
             ],  
           },  
         },  
@@ -30,12 +30,12 @@
             duration: '2.5 years',  
             learned: [  
               'Arquitetura de Computadores', 'Pensamento Computacional', 'Introdução à Seg da Informação',  
-              'Desenv. Web HTML5, CSS, JavaScript e PHP', 'Paradigmas de Linguagens de Programação em Python'  
+              'Desenv. Web HTML5, CSS, JavaScript e PHP', 'Paradigmas de Linguagens de Programação em Python',
+	      'Engenharia De Usabilidade', 'Computação Em Nuvem', 'Estrutura De Dados Em Python',
+	      'Modelagem De Sistemas Em Uml', 'Comunicação Entre Aplicações', 
             ],  
-            willLearn: [   
-              'Computação Em Nuvem', 'Comunicação Entre Aplicações', 'Desenvolvimento De Front-End',
-              'Engenharia De Usabilidade', 'Estrutura De Dados Em Python', 'Modelagem De Sistemas Em Uml',
-              'Banco De Dados', 'Desenvolvimento Rápido De Aplicações Em Python', 'Engenharia De Software',
+            willLearn: [           
+              'Desenvolvimento De Front-End', 'Banco De Dados', 'Desenvolvimento Rápido De Aplicações Em Python', 'Engenharia De Software',
               'Introdução À Programação Estruturada Em C', 'Protocolos De Redes De Computadores',  
               'Sistemas Operacionais', 'Algoritmos E Complexidade', 'Aplic.Cloud, Iot E Indúst. 4.0 Em Python',
               'Banco De Dados Nosql', 'Desenvolvimento De Software Seguro', 'Estrutura De Dados Em C',

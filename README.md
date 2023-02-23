@@ -5,7 +5,7 @@
     export const aboutMe = {  
       name: 'Hildélio Júnior',  
       from: '📍 Salvador - BA'
-      age: 33,  
+      age: 34,  
       contact: {  
         linkedin: 'https//www.linkedin.com/in/hildelio-junior/',  
         email: '📬 hildelio@gmail.com',  

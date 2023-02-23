@@ -17,7 +17,7 @@
             workLoad: '1500 hours',  
             duration: 'one year',  
             learned: [  
-              'HTML', 'CSS', 'JavaScript', 'React', 'Redux', 'RTL', 'Metodologias Ágeis', 'Soft Skills', 'Docker' 
+              'HTML', 'CSS', 'JavaScript', 'React', 'Redux', 'Context API', 'RTL', 'Metodologias Ágeis', 'Soft Skills', 'Docker' 
             ],  
             willLearn: [  
               'Node.js', 'SQL', 'Jest', 'TypeScript', 'POO e SOLID', 'Python'

@@ -31,8 +31,8 @@
             learned: [  
               'Arquitetura de Computadores', 'Pensamento Computacional', 'Introdução à Seg da Informação',  
               'Desenv. Web HTML5, CSS, JavaScript e PHP', 'Paradigmas de Linguagens de Programação em Python',
-	      'Engenharia De Usabilidade', 'Computação Em Nuvem', 'Estrutura De Dados Em Python',
-	      'Modelagem De Sistemas Em Uml', 'Comunicação Entre Aplicações', 
+              'Engenharia De Usabilidade', 'Computação Em Nuvem', 'Estrutura De Dados Em Python',
+              'Modelagem De Sistemas Em Uml', 'Comunicação Entre Aplicações', 
             ],  
             willLearn: [           
               'Desenvolvimento De Front-End', 'Banco De Dados', 'Desenvolvimento Rápido De Aplicações Em Python', 'Engenharia De Software',

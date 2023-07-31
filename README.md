@@ -18,7 +18,7 @@
             duration: 'one year',  
             learned: [  
               'HTML', 'CSS', 'JavaScript', 'React', 'Redux', 'Context API', 'RTL', 'Metodologias Ágeis', 'Soft Skills', 'Docker',
-	      'Node.js', 'SQL', 'Jest', 'TypeScript', 'POO e SOLID', 
+              'Node.js', 'SQL', 'Jest', 'TypeScript', 'POO e SOLID', 
             ],  
             willLearn: [  
               'Ciência da Computação', 'Java', 'Python'

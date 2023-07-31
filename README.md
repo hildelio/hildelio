@@ -20,7 +20,7 @@
               'HTML', 'CSS', 'JavaScript', 'React', 'Redux', 'Context API', 'RTL', 'Metodologias Ágeis', 'Soft Skills', 'Docker' 
             ],  
             willLearn: [  
-              'Node.js', 'SQL', 'Jest', 'TypeScript', 'POO e SOLID', 'Python'
+              'Node.js', 'SQL', 'Jest', 'TypeScript', 'POO e SOLID', 'Ciência da Computação', 'Java', 'Python'
             ],  
           },  
         },  

@@ -18,11 +18,8 @@
             duration: 'one year',  
             learned: [  
               'HTML', 'CSS', 'JavaScript', 'React', 'Redux', 'Context API', 'RTL', 'Metodologias Ágeis', 'Soft Skills', 'Docker',  
-              'Node.js', 'SQL', 'Jest', 'TypeScript', 'POO e SOLID', 
-            ],  
-            willLearn: [  
-              'Ciência da Computação', 'Java', 'Python'
-            ],  
+              'Node.js', 'SQL', 'Jest', 'TypeScript', 'POO e SOLID', 'Ciência da Computação', 'Java', 'Python', 'Android'
+            ],   
           },  
         },  
         UniversidadeEstacioDeSa: {  
@@ -33,16 +30,15 @@
               'Arquitetura de Computadores', 'Pensamento Computacional', 'Introdução à Seg da Informação',  
               'Desenv. Web HTML5, CSS, JavaScript e PHP', 'Paradigmas de Linguagens de Programação em Python',
               'Engenharia De Usabilidade', 'Computação Em Nuvem', 'Estrutura De Dados Em Python',
-              'Modelagem De Sistemas Em Uml', 'Comunicação Entre Aplicações', 
+              'Modelagem De Sistemas Em Uml', 'Comunicação Entre Aplicações', 'Matemática e Lógica',
+              'Sistemas Operacionais', 'Banco De Dados', 'Desenvolvimento Rápido De Aplicações Em Python', 
+              'Engenharia de Software',
             ],  
             willLearn: [           
-              'Desenvolvimento De Front-End', 'Banco De Dados', 'Desenvolvimento Rápido De Aplicações Em Python', 'Engenharia De Software',
-              'Introdução À Programação Estruturada Em C', 'Protocolos De Redes De Computadores',  
-              'Sistemas Operacionais', 'Algoritmos E Complexidade', 'Aplic.Cloud, Iot E Indúst. 4.0 Em Python',
-              'Banco De Dados Nosql', 'Desenvolvimento De Software Seguro', 'Estrutura De Dados Em C',
-              'Gerenciamento De Projetos', 'Programação Orientada A Objetos Em Java','Big Data Em Python',
-              'Inteligência Artificial Para Devs', 'Métodos Ágeis Com Scrum', 'Projetos De Software Com Java',
-              'Programação De Software Básico Em C', 'Programação Em Python Para Análise De Dados',
+              'Algoritmos E Complexidade', 'Aplic.Cloud, Iot E Indúst. 4.0 Em Python',
+              'Desenvolvimento De Software Seguro', 'Programação Em Python Para Análise De Dados',
+              'Programação Orientada A Objetos Em Java','Big Data Em Python',
+              'Inteligência Artificial Para Devs', 'Projetos De Software Com Java',
               'Programação Para Dispositivos Móveis Em Android', 'Sistemas De Informação E Sociedade',  
             ]  
           }  

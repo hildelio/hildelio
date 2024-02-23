@@ -10,7 +10,17 @@
         linkedin: 'https//www.linkedin.com/in/hildelio-junior/',  
         email: '📬 hildelio@gmail.com',  
         phone: '+55🇧🇷 (71) 98791-5527',  
-      },  
+      },
+      studentAt: {  
+        DBCCompany: {  
+          VemSer: {  
+            workLoad: '360 hours',  
+            duration: 'three months',  
+            learned: [  
+              'Java', 'POO', 'Banco de Dados Oracle', 'Microservices: Spring Web, Data e Security', 'MongoDB', 'Kafka', 'Testes Unitários', 
+            ],   
+          },  
+        }, 
       studentAt: {  
         trybe: {  
           webDevelopmentFullStack: {  
@@ -18,7 +28,7 @@
             duration: 'one year',  
             learned: [  
               'HTML', 'CSS', 'JavaScript', 'React', 'Redux', 'Context API', 'RTL', 'Metodologias Ágeis', 'Soft Skills', 'Docker',  
-              'Node.js', 'SQL', 'Jest', 'TypeScript', 'POO e SOLID', 'Ciência da Computação', 'Java', 'Python', 'Android'
+              'Node.js', 'SQL', 'Jest', 'TypeScript', 'POO e SOLID', 'Ciência da Computação', 'Java', 'Python', 'Android',
             ],   
           },  
         },  

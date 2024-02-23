@@ -21,7 +21,6 @@
             ],   
           },  
         }, 
-      studentAt: {  
         trybe: {  
           webDevelopmentFullStack: {  
             workLoad: '1500 hours',  
